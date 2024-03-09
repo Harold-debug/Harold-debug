@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harold Geumtcheng</h1>
 <h3 align="center">A passionate AIgineer from Cameroon</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=harold-debug&label=Profile%20views&color=0e75b6&style=flat" alt="harold-debug" /> </p> -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=harold-debug&label=Profile%20views&color=0e75b6&style=flat" alt="harold-debug" /> </p>  -->
 
-<p align="left"> <a href="https://linkedin.com/in/harold-geumtcheng" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Harold Geumtcheng" width="40" height="40" /></a> Follow me </p>
+<p align="left"> <a href="https://linkedin.com/in/harold-geumtcheng" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Harold Geumtcheng" width="40" height="40" /></a> </p>
 
 - 🌱 I’m currently learning **AI and how to apply in sustainable futures goals**
 
