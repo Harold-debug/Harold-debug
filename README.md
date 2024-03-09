@@ -3,7 +3,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=harold-debug&label=Profile%20views&color=0e75b6&style=flat" alt="harold-debug" /> </p> -->
 
-<p align="left"> <a href="https://twitter.com/harold_g237" target="blank"><img src="https://img.shields.io/twitter/follow/harold_g237?logo=twitter&style=for-the-badge" alt="harold_g237" /></a> </p>
+<p align="left"> <a href="https://linkedin.com/in/harold-geumtcheng" target="blank"><img src="https://img.shields.io/badge/LinkedIn-harold_g237-blue?logo=linkedin&style=for-the-badge" alt="harold_g237" /></a> </p>
 
 - 🌱 I’m currently learning **AI and how to apply in sustainable futures goals**
 
