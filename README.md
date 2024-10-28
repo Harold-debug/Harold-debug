@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harold Geumtcheng</h1>
-<h3 align="center">A passionate AIgineer from Cameroon</h3>
+<h3 align="center">A passionate AIgineer</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=harold-debug&label=Profile%20views&color=0e75b6&style=flat" alt="harold-debug" /> </p>  -->
 
